@@ -1,0 +1,85 @@
+[
+    {
+        "categoria": "Star Wars",
+        "pregunta": "Quién dijo la famosa frase \"Es una trampa!\"",
+        "respuesta": "Almirante Ackbar",
+        "incorrecta1": "Luke Skywalker",
+        "incorrecta2": "Almirante Thrawn",
+        "incorrecta3": "Chewbacca",
+        "imagen": "https://i.ibb.co/Rhgs2YN/admiralackbar1-2-845df144.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Star Wars",
+        "pregunta": "Cómo se llamaba la nave de Han Solo?",
+        "respuesta": "Hálcon Milenario",
+        "incorrecta1": "Slave I",
+        "incorrecta2": "Fantasma",
+        "incorrecta3": "La Mantis",
+        "imagen": "https://i.ibb.co/kSHPzRB/OIP.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Star Wars",
+        "pregunta": "Qué planeta sirvió de refugio a Yoda?",
+        "respuesta": "Dagobah",
+        "incorrecta1": "Endor",
+        "incorrecta2": "Bogano",
+        "incorrecta3": "Tatooine"
+    },
+    {
+        "categoria": "Star Wars",
+        "pregunta": "Quién es el creador de Star Wars?",
+        "respuesta": "George Lucas",
+        "incorrecta1": "Disney",
+        "incorrecta2": "Mark Hamill",
+        "incorrecta3": "Harrison Ford"
+    },
+    {
+        "categoria": "Star Wars",
+        "pregunta": "¿Cuál es el número de episodio de la primera película de Star Wars?",
+        "respuesta": "IV",
+        "incorrecta1": "I",
+        "incorrecta2": "VI",
+        "incorrecta3": "VIII"
+    },
+    {
+        "categoria": "Star Wars",
+        "pregunta": "Quién construyó a C-3PO?",
+        "respuesta": "Anakin Skywalker",
+        "incorrecta1": "Almirante Ackbar",
+        "incorrecta2": "Luke Skywalker",
+        "incorrecta3": "Padme Amidala",
+        "imagen": "https://i.ibb.co/Jr1jLxz/download.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Star Wars",
+        "pregunta": "¿Cuál es el verdadero nombre de “El Niño” de El Mandaloriano?",
+        "respuesta": "Grogu",
+        "incorrecta1": "Bebe Yoda",
+        "incorrecta2": "Grutt",
+        "incorrecta3": "Yin",
+        "imagen": "https://i.ibb.co/yQpNKKj/download.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Star Wars",
+        "pregunta": "¿Cuántos años tenía Yoda cuando finalmente sucumbió a la Fuerza?",
+        "respuesta": "900",
+        "incorrecta1": "800",
+        "incorrecta2": "1000",
+        "incorrecta3": "700",
+        "imagen": "https://i.ibb.co/tqJ7vRt/OIP.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria": "Star Wars",
+        "pregunta": "¿Qué episodio es Los últimos Jedi?",
+        "respuesta": "VIII",
+        "incorrecta1": "VI",
+        "incorrecta2": "V",
+        "incorrecta3": "IV"
+    }
+
+]
